@@ -45,7 +45,7 @@ item:
     description: ''
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    title: 'The Ultimate Hands-On Hadoop'
     url: ''
     
 design:
