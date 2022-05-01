@@ -25,20 +25,21 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2022-01-05'
+    date_start: '2022-05-05'
     description: Machine Learning production system end-to-end
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Machine Learning Engineering for Production (MLOps) Specialization
     url: ''
-  - certificate_url: https://www.udemy.com/
+  - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    date_start: '2022-04-01'
+    description: Using Spark to wrangle big data and running Machine Learning models.
     organization: Udemy
     organization_url: https://www.udemy.com/
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    title: Spark and Python for Big Data with PySpark
+    url: https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/
+    
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
