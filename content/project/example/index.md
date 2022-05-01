@@ -6,7 +6,7 @@ tags:
 date: '2022-02-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://github.com/RamiroMejia/GAN_fake_houses'
 
 image:
   caption: Photo by rawpixel on Unsplash
