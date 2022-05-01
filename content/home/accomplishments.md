@@ -43,7 +43,7 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2022-05-01'
-    description: Data Engineering and Hadoop tutorial with MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassandra, Kafka
+    description: Data Engineering and Hadoop tutorial with MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassandra.
     organization: Udemy
     organization_url:  https://www.udemy.com/
     title: The Ultimate Hands-On Hadoop: Tame your Big Data!
