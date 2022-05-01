@@ -2,7 +2,7 @@
 title: Generative Adversarial Network - Fake Houses
 summary: Implemented a neural network to create artificial thumbnail images of houses.
 tags:
-  - *
+  - '*'
 date: '2022-02-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
