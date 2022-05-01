@@ -26,12 +26,11 @@ item:
   - certificate_url: https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
     date_end: ''
     date_start: '2022'
-    description: 'Machine Learning production system end-to-end'
+    description: Machine Learning production system end-to-end
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Machine Learning Engineering for Production (MLOps) Specialization
     url: ''
-    
   - certificate_url: https://www.udemy.com/certificate/UC-57fb17c5-d0ca-4742-b655-7f4979fb4d6e/
     date_end: ''
     date_start: '2022'
