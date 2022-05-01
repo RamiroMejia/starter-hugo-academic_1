@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
+  - certificate_url: ''
     date_end: ''
     date_start: '2022-01-05'
     description: Machine Learning production system end-to-end
