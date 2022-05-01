@@ -67,6 +67,6 @@ highlight_name: true
 
 Data Scientist with more than four years of experience in Machine Learning, Quantitative Analysis, Econometric and Statistical modeling. Expertise in data collection, wrangling and visualization. Coding proficiency in Python, R, and SQL. 
 
-I have worked in diverse fields throughout my professional trajectory, such as market research, customer acquisition and credit risk management. II am a passionate problem solver able to learn quickly new abilities and adapt to challenges.
+I have worked in diverse fields throughout my professional trajectory, such as market research, customer acquisition and credit risk management. I am a passionate problem solver able to learn quickly new abilities and adapt to challenges.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can find more information about my professional background {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
