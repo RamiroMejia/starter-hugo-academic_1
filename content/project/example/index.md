@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Generative Adversarial Network - Fake Houses
+summary: Implemented a neural network to create artificial thumbnail images of houses.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - All
+date: '2022-02-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Repository
+    url: https://github.com/RamiroMejia/GAN_fake_houses
 url_code: ''
 url_pdf: ''
 url_slides: ''
