@@ -40,14 +40,7 @@ item:
     title: Spark and Python for Big Data with PySpark
     url: https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/
     
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2022-05-01'
-    description: Data Engineering and Hadoop tutorial with MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassandra.
-    organization: Udemy
-    organization_url:  https://www.udemy.com/
-    title: The Ultimate Hands-On Hadoop: Tame your Big Data!
-    url: https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/
+
 
 design:
   columns: '2'
