@@ -43,8 +43,8 @@ item:
     date_end: ''
     date_start: '2022-05-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
+    organization: Udemy
+    organization_url: https://www.udemy.com
     title: 'The Ultimate Hands-On Hadoop'
     url: ''
     
