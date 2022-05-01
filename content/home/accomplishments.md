@@ -26,7 +26,7 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2022-05-05'
-    description: Machine Learning production system end-to-end
+    description:  end-to-end Machine Learning production system.
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Machine Learning Engineering for Production (MLOps) Specialization
@@ -40,14 +40,14 @@ item:
     title: Spark and Python for Big Data with PySpark
     url: https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/
     
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2022-05-01'
+    description: Data Engineering and Hadoop tutorial with MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassandra, Kafka
+    organization: Udemy
+    organization_url:  https://www.udemy.com/
+    title: The Ultimate Hands-On Hadoop: Tame your Big Data!
+    url: https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/
 
 design:
   columns: '2'
