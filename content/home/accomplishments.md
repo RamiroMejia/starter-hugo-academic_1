@@ -31,12 +31,12 @@ item:
     organization_url: https://www.coursera.org
     title: Machine Learning Engineering for Production (MLOps) Specialization
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.udemy.com/
     date_end: ''
     date_start: '2021-01-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
+    organization: udemy
+    organization_url: https://www.udemy.com/
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
