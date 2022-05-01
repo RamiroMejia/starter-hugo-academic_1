@@ -1,4 +1,6 @@
+
 ---
+
 title: Generative Adversarial Network - Fake Houses
 summary: Implemented a neural network to create artificial thumbnail images of houses.
 tags:
@@ -22,6 +24,10 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+---
+
+
+---
 
 title: Forecasting with Ensembles and LSTM
 summary: Compared the forecasting accuracy for a stock closing price using a machine learning ensemble against a LSTM artificial recurrent neural network.
