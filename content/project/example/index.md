@@ -27,7 +27,7 @@ url_video: ''
 title: Forecasting with Ensembles and LSTM
 summary: Compared the forecasting accuracy for a stock closing price using a machine learning ensemble against a LSTM artificial recurrent neural network.
 tags:
-  - All
+  - '*'
 date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
