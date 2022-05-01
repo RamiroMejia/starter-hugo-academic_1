@@ -39,7 +39,7 @@ item:
     organization_url: https://www.udemy.com/
     title: Spark and Python for Big Data with PySpark
     url: https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/ 
-  - certificate_url: https://www.datacamp.com
+  - certificate_url: https://www.udemy.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
