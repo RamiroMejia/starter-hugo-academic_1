@@ -36,10 +36,9 @@ item:
     date_start: '2022'
     description: 'Applying Spark to wrangle data and run Machine Learning algorithms' 
     organization: Udemy
-    organization_url: https://www.edx.org
+    organization_url:  https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/
     title: Spark and Python for Big Data with PySpark
-    url: https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/
-    
+    url: ''  
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
