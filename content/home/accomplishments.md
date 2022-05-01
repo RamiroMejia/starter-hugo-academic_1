@@ -46,7 +46,7 @@ item:
     organization: Udemy
     organization_url: https://www.udemy.com
     title: 'The Ultimate Hands-On Hadoop'
-    url: ''
+    url: 'https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/'
     
 design:
   columns: '2'
