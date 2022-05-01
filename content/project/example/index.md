@@ -1,4 +1,3 @@
-
 ---
 
 title: Generative Adversarial Network - Fake Houses
