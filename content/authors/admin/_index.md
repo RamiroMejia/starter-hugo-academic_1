@@ -6,7 +6,7 @@ title: Ramiro Mejia
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,7 +21,7 @@ interests:
   - Machine Learning
   - Deep Learning
   - Cloud Computing
-  - Causal Inference
+  - Data Engineering
 
 # Education to show in About widget
 education:
@@ -65,8 +65,5 @@ email: ''
 highlight_name: true
 ---
 
-Data Scientist with more than four years of experience in Machine Learning, Quantitative Analysis, Econometric and Statistical modeling. Expertise in data collection, wrangling and visualization. Coding proficiency in Python, R, and SQL. 
-
-I have worked in diverse fields throughout my professional trajectory, such as market research, customer acquisition and credit risk management. I am a passionate problem solver able to learn quickly new abilities and adapt to challenges.
-
-{{< icon name="download" pack="fas" >}} You can find more information about my professional background {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
+I have over six years of hands-on experience in delivering data-driven solutions, employing an extensive toolkit of software and cutting-edge technologies. I have a proven track record of success in developing and maintaining end-to-end data pipelines and models.
+I possess experience in data engineering, machine learning, analytics, and cloud computing.
